@@ -1,3 +1,4 @@
+/*
 package main
 
 import (
@@ -21,3 +22,4 @@ func main(){
   fmt.Println(xml.String())
 
 }
+*/
