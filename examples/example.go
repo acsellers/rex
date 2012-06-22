@@ -1,8 +1,7 @@
-/*
 package main
 
 import (
-  "rex"
+  "github.com/acsellers/rex"
   "fmt"
 )
 
@@ -22,4 +21,3 @@ func main(){
   fmt.Println(xml.String())
 
 }
-*/
